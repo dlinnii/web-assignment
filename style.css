@@ -1,0 +1,149 @@
+.container h1 {
+	text-align: center;
+	margin: 0
+}
+.container code {
+	background-color: white;
+	font-size: 22px;
+	line-height: 30px
+}
+#container-contact {
+	background-color: #E2FAFF;
+	width: 1080px;
+	margin: auto;
+}
+.i1 img {
+	height: 400px;
+	width: 90%
+}
+.i2 img {
+	height: 400px;
+	width: 90%
+}
+.footer {
+	text-align: center;
+}
+.footer code {
+	background-color: white;
+	font-size: 16px
+}
+code {
+	background-color: white;
+	color: black
+}
+#contact-content-bottom {
+	font-size: 20px;
+}
+.contact-content code {
+	font-size: 30px;
+	text-align: center;
+	line-height: 1.3
+}
+.contact-content {
+	text-align: center;
+	margin-top: 50px;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px
+}
+.contact-content #main {
+	font-size: 36px;
+	font-weight: bold;
+}
+.cont {
+	border-bottom: 1px solid black;
+	padding-bottom: 10px
+}
+.about-content #h1 {
+	font-size: 30px;
+	text-align: center;
+}
+.about-content {
+	margin-top: 10px;
+	font-size: 30px;
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px
+}
+.about-content p code {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.about-content img {
+	height: 500px;
+	width: 50%;
+	margin-left: 25%
+}
+.history-content p code {
+	font-size: 16px;
+}
+.history-content p #h1 {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold
+}
+.history-content {
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px
+}
+.gallery-content img {
+	width: 100%;
+	height: 30%
+}
+.gallery-cont p code {
+	font-size: 30px;
+	font-weight: bold
+}
+.gallery-cont {
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+.location-content p #h1 {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold
+}
+.location-content {
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px
+}
+.location-content img {
+	width: 90%;
+}
+.location-content .address code {
+	font-weight: bold;
+	font-size: 22px
+}
+.master-cont {
+	text-align: center;
+	font-size: 30px;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+.master-cont p code {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+.master-cont .gallery-content img {
+	height: 300px
+}
+.master-cont .gallery-content #master code {
+	font-size: 24px;
+	background-color: #aac
+}
+.master-cont .t1 p {
+	font-size: 20px;
+	background-color: red
+}
+#terminology p1{
+	padding: 10px;
+	width: 100px;
+}
+.col-sm-12.col-lg-12.col-md-12.contact-content.container .col-sm-12.col-md-12.col-lg-12 .thumbnail.img-rounded {
+}
+.col-sm-12.col-lg-12.col-md-12.contact-content.container .col-sm-12.col-md-12.col-lg-12 .thumbnail {
+}
